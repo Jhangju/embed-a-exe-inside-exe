@@ -1,0 +1,7 @@
+C:\Users\Irenic\source\repos\extract\extract\bin\Release\extract.exe.config
+C:\Users\Irenic\source\repos\extract\extract\bin\Release\extract.exe
+C:\Users\Irenic\source\repos\extract\extract\bin\Release\extract.pdb
+C:\Users\Irenic\source\repos\extract\extract\obj\Release\extract.csproj.CoreCompileInputs.cache
+C:\Users\Irenic\source\repos\extract\extract\obj\Release\extract.exe
+C:\Users\Irenic\source\repos\extract\extract\obj\Release\extract.pdb
+C:\Users\Irenic\source\repos\extract\extract\obj\Release\extract.csproj.CopyComplete

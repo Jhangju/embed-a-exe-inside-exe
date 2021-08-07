@@ -1,0 +1,7 @@
+C:\Users\black\Desktop\new code\New folder\extract\obj\Debug\extract.csproj.AssemblyReference.cache
+C:\Users\black\Desktop\new code\New folder\extract\obj\Debug\extract.csproj.CoreCompileInputs.cache
+C:\Users\black\Desktop\new code\New folder\extract\bin\Debug\extract.exe.config
+C:\Users\black\Desktop\new code\New folder\extract\bin\Debug\extract.exe
+C:\Users\black\Desktop\new code\New folder\extract\bin\Debug\extract.pdb
+C:\Users\black\Desktop\new code\New folder\extract\obj\Debug\extract.exe
+C:\Users\black\Desktop\new code\New folder\extract\obj\Debug\extract.pdb
